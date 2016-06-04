@@ -11,3 +11,4 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
     }//Method หรือ เมดธอดหลัก
 } //Main Class คลาสหลัก
+
